@@ -30,7 +30,7 @@
       {"image":"5.jpg",
         "url":"https://www.aceenggacademy.com/"
       },
-      {"image":"git.png",
+      {"image":"Cb.png",
         "url":"https://github.com/"
       },
       {"image":"7.png",
@@ -95,8 +95,7 @@
     ],
     "row3":[  
       
-      "image":"Cb.png",
-        "url":""
+      
     ]
   
   }
