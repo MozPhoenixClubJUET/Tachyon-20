@@ -13,6 +13,9 @@
     ],
 
     "row3": [
+      {"image":"Cb.png",
+        "url":"https://github.com/"
+      },
       {"image":"jiosav.png",
         "url":"https://edtimes.in/"
       },
@@ -79,9 +82,6 @@
       }
     ],
     "row2": [
-      {"image":"Cb.png",
-        "url":"https://github.com/"
-      },
       {
         "image":"8.jpg",
         "url":""
