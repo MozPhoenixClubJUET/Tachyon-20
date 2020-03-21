@@ -79,9 +79,8 @@
       }
     ],
     "row2": [
-     {
-        "image":"Cb.png",
-        "url":""
+      {"image":"Cb.png",
+        "url":"https://github.com/"
       },
       {
         "image":"8.jpg",
