@@ -75,9 +75,6 @@
       {"image":"brain.png",
         "url":"https://edtimes.in/"
       },
-       {"image":"6.png",
-        "url":"https://github.com/"
-      },
       {"image":"metro.png",
         "url":"https://edtimes.in/"
       }
@@ -96,7 +93,9 @@
 
     ],
     "row3":[  
-      
+       {"image":"6.png",
+        "url":"https://github.com/"
+      }
 
     ]
   
