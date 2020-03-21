@@ -13,13 +13,13 @@
     ],
 
     "row3": [
-      {"image":"metro.png",
+      {"image":"jiosav.png",
         "url":"https://edtimes.in/"
       },
-       {"image":"Techd.jpg",
+       {"image":"axis.png",
         "url":"https://www.aceenggacademy.com/"
       },
-      {"image":"Hrank.jpg",
+      {"image":"hackerrank.png",
         "url":"https://edtimes.in/"
       }
      
@@ -27,10 +27,10 @@
   },
   "layer-2": {
     "row1": [
-      {"image":"5.jpg",
+      {"image":"wittyfeed.png",
         "url":"https://www.aceenggacademy.com/"
       },
-      {"image":"Cb.png",
+      {"image":"3.png",
         "url":"https://github.com/"
       },
       {"image":"7.png",
@@ -43,10 +43,10 @@
       {"image":"gail.png",
         "url":"https://edtimes.in/"
       },
-      {"image":"Sbi.jpg",
+      {"image":"sbi.png",
         "url":"https://edtimes.in/"
       },
-      {"image":"axis.png",
+      {"image":"9.png",
         "url":"https://edtimes.in/"
       }
 
@@ -58,7 +58,7 @@
       {"image":"store.png",
         "url":"https://edtimes.in/"
       },
-      {"image":"techi.png",
+      {"image":"techdomain.png",
         "url":"https://edtimes.in/"
       }
       
@@ -74,7 +74,7 @@
       {"image":"brain.png",
         "url":"https://edtimes.in/"
       },
-      {"image":"jio.png",
+      {"image":"metro.png",
         "url":"https://edtimes.in/"
       }
     ],
@@ -83,10 +83,7 @@
         "image":"8.jpg",
         "url":""
       },
-      {"image":"9.png",
-        "url":""
-      },
-      {"image":"3.png",
+      {"image":"techi.png",
         "url":""
       }
 
@@ -95,7 +92,7 @@
     ],
     "row3":[  
       
-      
+
     ]
   
   }
